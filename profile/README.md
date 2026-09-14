@@ -1,9 +1,21 @@
-<!-- Logo placeholder: uncomment and point to the CSILab logo once it is added to this repository -->
-<!-- <p align="center"><img width="320px" src="https://github.com/csilab-ufop/.github/blob/main/profile/logo.png" /></p> -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e79,100:2e7d32&height=200&section=header&text=CSILab&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Intelligent%20Systems%20Computing%20Laboratory%20-%20UFOP&descSize=22&descAlignY=72" alt="CSILab banner" />
+</p>
 
 <div align="center">
 
 # Welcome to the CSILab - Laboratório de Computação de Sistemas Inteligentes da Universidade Federal de Ouro Preto
+
+<a href="https://github.com/csilab-ufop">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence;Complex+Networks;Multiobjective+Optimization;Machine+Learning+%26+Deep+Learning;Data+Science;Computational+Statistics;Computer+Vision&font=Fira+Code&center=true&width=500&height=45&size=22&duration=3000&pause=800&color=2E7D32" alt="Research areas" />
+</a>
+
+<br>
+
+<a href="http://www.decom.ufop.br/csilab/"><img src="https://img.shields.io/badge/Website-csilab-1f4e79?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="http://www.decom.ufop.br/"><img src="https://img.shields.io/badge/DECOM-UFOP-8B0000?style=for-the-badge" alt="DECOM/UFOP" /></a>
+<a href="http://www3.decom.ufop.br/pos/inicio/"><img src="https://img.shields.io/badge/PPGCC-Graduate%20Program-2e7d32?style=for-the-badge" alt="PPGCC" /></a>
+<a href="https://github.com/csilab-ufop"><img src="https://img.shields.io/github/stars/csilab-ufop?style=for-the-badge&logo=github&label=Org%20stars" alt="Organization stars" /></a>
 
 </div>
 
@@ -11,9 +23,11 @@
 If you wanna be a student or collaborator in the <a href="http://www.decom.ufop.br/csilab/">CSILab</a>, here you will find information about how we work and tons of interesting projects to join in.
 </p>
 
-<h2 align="center"><u>Mission</u></h2>
+<h2 align="center"><u>About Us</u></h2>
 
-The **CSILab** – Intelligent Systems Computing Laboratory at the *Federal University of Ouro Preto* is a research group dedicated to advancing artificial intelligence, machine learning, computer vision, pattern recognition, and data science. Our mission is to foster innovation, develop cutting-edge technological solutions, and provide specialized AI consulting. By combining excellence in academic research with practical applications, we tackle real-world challenges and drive scientific and technological progress. Join us at **CSILab**, where ideas are transformed into impact.
+- **Who we are:** We are a research laboratory at the Department of Computing (DECOM) of the Federal University of Ouro Preto (UFOP), in Ouro Preto, Minas Gerais, Brazil.
+- **Our mission:** The **CSILab** – Intelligent Systems Computing Laboratory at the *Federal University of Ouro Preto* is a research group dedicated to advancing artificial intelligence, machine learning, computer vision, pattern recognition, and data science. Our mission is to foster innovation, develop cutting-edge technological solutions, and provide specialized AI consulting. By combining excellence in academic research with practical applications, we tackle real-world challenges and drive scientific and technological progress. Join us at **CSILab**, where ideas are transformed into impact.
+- **Where to find us:** [Visit our official website!](http://www.decom.ufop.br/csilab/)
 
 <details>
 <summary><b>Versão em Português</b></summary>
@@ -23,52 +37,41 @@ O **CSILab** - Laboratório de Computação de Sistemas Inteligentes da Universi
 
 </details>
 
-- **Who we are:** A research laboratory at the Department of Computing (DECOM) of the Federal University of Ouro Preto (UFOP).
-- **Where to find us:** [Visit our official website!](http://www.decom.ufop.br/csilab/)
-
 <h2 align="center"><u>What do we do?</u></h2>
 
 The fields we work in are:
 
-- **Artificial Intelligence** (Inteligência Artificial)
-- **Network Science / Complex Networks / Complex Systems** (Redes Complexas)
-- **Multiobjective Optimization** (Otimização Multiobjetivo)
-- **Machine Learning / Deep Learning** (Aprendizagem de Máquina)
-- **Data Science** (Ciência de Dados)
-- **Computational Statistics** (Estatística Computacional)
-- **Computer Vision** (Visão Computacional)
+<div align="center">
+
+| Field | Área |
+| :--- | :--- |
+| **Artificial Intelligence** | Inteligência Artificial |
+| **Network Science / Complex Networks / Complex Systems** | Redes Complexas |
+| **Multiobjective Optimization** | Otimização Multiobjetivo |
+| **Machine Learning / Deep Learning** | Aprendizagem de Máquina |
+| **Data Science** | Ciência de Dados |
+| **Computational Statistics** | Estatística Computacional |
+| **Computer Vision** | Visão Computacional |
+
+</div>
+
+<h3 align="center">Our stack</h3>
 
 <p align="center">
-  <kbd>
-    <kbd>Languages</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Machine Learning & Data</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Tools & Platforms</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" />
-  </kbd>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,cpp,matlab,pytorch,tensorflow,sklearn,opencv,anaconda,latex,linux,git,docker,github&perline=7&theme=light" alt="Languages and tools" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases" />
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf" />
 </p>
 
 <h2 align="center"><u>Professors</u></h2>
@@ -76,7 +79,7 @@ The fields we work in are:
 <div align="center">
 
 | Professor | Email | Links |
-|---|---|---|
+| :--- | :--- | :---: |
 | **Eduardo Luz** | eduluz@ufop.edu.br | [Lattes CV](http://lattes.cnpq.br/5385878413487984) · [Website](http://www.decom.ufop.br/csilab/) |
 | **Gladston Moreira** | gladston@ufop.edu.br | [Lattes CV](http://lattes.cnpq.br/9902619084565293) · [Website](http://www.decom.ufop.br/moreira) |
 | **Jadson Castro** | jadson.castro@ufop.edu.br | [Lattes CV](http://lattes.cnpq.br/2870519332050607) |
@@ -88,13 +91,53 @@ The fields we work in are:
 
 </div>
 
+<h2 align="center"><u>Infrastructure</u></h2>
+
+**CSILab servers and GPUs:** We have nice computers in our laboratory (256 GB RAM, 48 threads), with powerful GPUs (NVIDIA H200 NVL with 141 GB, RTX 3090, etc.), available for you to run your experiments (don't stress your laptop!!). Access to the lab machines is done remotely and managed by Prof. Pedro Silva (silvap@ufop.edu.br). Drop an email to Prof. Pedro (with a copy to your supervisor) for instructions on how to use our infrastructure.
+
+Our best machine is **jackal**:
+
+<div align="center">
+
+| | jackal |
+| ---: | :--- |
+| **GPU** | <img src="https://img.shields.io/badge/NVIDIA%20H200%20NVL-141%20GB-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA H200 NVL 141 GB" /> |
+| **CPU** | AMD Ryzen Threadripper 7960X · 24 cores / 48 threads |
+| **RAM** | 256 GB |
+| **Local storage** | 960 GB NVMe SSD |
+| **Network storage** | ~66 TB across three shared volumes (`work`, `data`, `ppg`) |
+| **OS** | Ubuntu 22.04 LTS · CUDA |
+
+</div>
+
+> [!IMPORTANT]
+> The machines are shared with the whole lab. Check the GPU usage with `nvidia-smi` before running your experiments, keep your files in your own folder, and free the GPU as soon as you are done (other students are waiting!!).
+
 <h2 align="center"><u>Projects you could get involved in</u></h2>
 
 Find below lists of projects you could get involved in according to your level (undergraduate, Master's degree, Ph.D.):
 
-- [**Undergraduate** - Scientific Initiation (IC) and Honours Thesis (TCC)](https://github.com/csilab-ufop/.github/blob/main/profile/projects_undergrad.md)
-- [**Master's degree**](https://github.com/csilab-ufop/.github/blob/main/profile/projects_ms.md)
-- [**Ph.D.**](https://github.com/csilab-ufop/.github/blob/main/profile/projects_phd.md)
+<div align="center">
+
+| Level | Projects |
+| :--- | :---: |
+| **Undergraduate** — Scientific Initiation (IC) and Honours Thesis (TCC) | [View projects](https://github.com/csilab-ufop/.github/blob/main/profile/projects_undergrad.md) |
+| **Master's degree** | [View projects](https://github.com/csilab-ufop/.github/blob/main/profile/projects_ms.md) |
+| **Ph.D.** | [View projects](https://github.com/csilab-ufop/.github/blob/main/profile/projects_phd.md) |
+
+</div>
+
+<h2 align="center"><u>Good practices for your repositories</u></h2>
+
+Every repository published under the CSILab organization should be easy to find, easy to reuse and easy to cite. Please follow these rules:
+
+- **Always add a license.** A repository without a license cannot be legally reused by anyone, not even by other members of the lab. Choose one when creating the repository (GitHub offers a *"Add a license"* option) or add a `LICENSE` file later. We recommend [MIT](https://choosealicense.com/licenses/mit/) or [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) for code and [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for datasets and documents. Not sure? Use [choosealicense.com](https://choosealicense.com/).
+- **Always add topics.** Topics are the tags shown under the repository description. They make your work discoverable on GitHub and let us group the lab's repositories by area. Add at least `csilab`, `ufop`, the research area (e.g. `deep-learning`, `complex-networks`, `computer-vision`, `multiobjective-optimization`) and the main technology (e.g. `pytorch`).
+- **Write a README** with the paper title, authors, abstract, how to install, how to run, and how to cite (add a `CITATION.cff` file so GitHub shows a *"Cite this repository"* button).
+- **Use the venue in the description.** Prefix the repository description with the venue and year, e.g. `[CVPR 2026] Title of the paper`. This is what shows on the pinned cards of the organization page.
+
+> [!TIP]
+> When you create a repository, GitHub asks for a description, a `.gitignore`, a license and a README in the same screen. Fill all of them. Then open the ⚙️ next to *About* on the repository page to add the topics.
 
 <h2 align="center"><u>Guidelines for our students</u></h2>
 
@@ -112,10 +155,9 @@ Find below some general guidelines for our students. Click on each topic to expa
 </details>
 
 <details>
-<summary><b>Infrastructure and experiments</b></summary>
+<summary><b>Experiments and reproducibility</b></summary>
 <br>
 
-- **CSILab servers and GPUs:** We have nice computers in our laboratory (128 GB RAM, >40 cores), with powerful GPUs (RTX 3090, etc.), available for you to run your experiments (don't stress your laptop!!). Access to the lab machines is done remotely and managed by Prof. Pedro Silva (silvap@ufop.edu.br). Drop an email to Prof. Pedro (with a copy to your supervisor) for instructions on how to use our infrastructure.
 - **Experiment tracking:** Organize your git repository. We strongly recommend using an experiment tracking tool such as [MLflow](https://mlflow.org/docs/latest/tracking.html) or [W&B](https://docs.wandb.ai/quickstart). Read this great [MLflow tutorial](https://blog.devgenius.io/mlflow-an-extended-hello-world-99739b68bf29) by Felipe Melo, or if you prefer, run this [W&B example](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/intro/Intro_to_Weights_%26_Biases.ipynb) for a nice dashboard for your experiments. Also, take time to read this [guideline](https://coderefinery.github.io/reproducible-research/organizing-projects/) to help you organize your directories and experiments. Example of how to organize your git repository: [link](https://github.com/csleemooo/Deep_learning_based_on_parameterized_physical_forward_model_for_adaptive_holographic_imaging).
 - **[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf):** A classic read on how memory and caches work, and why it matters for the performance of your code.
 - **Don't reinvent the wheel!** Start from good code repositories. Get to know [Papers with Code](https://paperswithcode.com/) (now [Hugging Face Trending Papers](https://huggingface.co/papers/trending)).
@@ -157,8 +199,12 @@ Training deep learning models is a difficult task. Finding good hyperparameters 
 
 </details>
 
------
+<br>
 
 <p align="center"><i>CSILab · DECOM · Universidade Federal de Ouro Preto · Ouro Preto, MG, Brasil</i></p>
 
-*Last Edited on: 14/09/2026*
+<p align="center"><sub>Last edited on 14/09/2026</sub></p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e79,100:2e7d32&height=100&section=footer" alt="footer" />
+</p>
