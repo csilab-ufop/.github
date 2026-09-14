@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c10,55:141c28,100:c73e28&height=200&section=header&text=Intelligent%20Systems%20Computing%20Laboratory&fontSize=42&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn" alt="CSILab banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050608,60:0b0c10,100:7a2517&height=200&section=header&text=Intelligent%20Systems%20Computing%20Laboratory&fontSize=32&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn" alt="CSILab banner" />
 </p>
 
 <div align="center">
@@ -50,20 +50,88 @@ O **CSILab** - Laboratório de Computação de Sistemas Inteligentes da Universi
 
 <h2 align="center"><u>Professors</u></h2>
 
-<div align="center">
-
-| Professor | Email | Links |
-| :--- | :--- | :---: |
-| **Eduardo Luz** | <eduluz@ufop.edu.br> | [Lattes CV](http://lattes.cnpq.br/5385878413487984) · [Website](http://www.decom.ufop.br/csilab/) |
-| **Gladston Moreira** | <gladston@ufop.edu.br> | [Lattes CV](http://lattes.cnpq.br/9902619084565293) · [Website](http://www.decom.ufop.br/moreira) |
-| **Jadson Castro** | <jadson.castro@ufop.edu.br> | [Lattes CV](http://lattes.cnpq.br/2870519332050607) |
-| **Pedro Silva** | <silvap@ufop.edu.br> | [Lattes CV](http://lattes.cnpq.br/5939805873458297) |
-| **Rodrigo Silva** | <rodrigo.silva@ufop.edu.br> | [Lattes CV](http://lattes.cnpq.br/1368091094952755) |
-| **Valéria Santos** | <valeriacs@ufop.edu.br> | [Lattes CV](http://lattes.cnpq.br/1153044237982775) |
-| **Vander Freitas** | <vander.freitas@ufop.edu.br> | [Lattes CV](http://lattes.cnpq.br/5339877279308939) · [Website](https://vanderfreitas.github.io/) |
-| **Ivair Silva** | <ivair@ufop.edu.br> | [Lattes CV](http://lattes.cnpq.br/7969497765428744) |
-
-</div>
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="25%">
+        <img src="https://ui-avatars.com/api/?name=Eduardo%20Luz&background=0b0c10&color=e2e8f0&size=110&rounded=true&bold=true&font-size=0.4" width="90" alt="Eduardo Luz" /><br>
+        <b>Eduardo Luz</b><br>
+        <sub><b>Coordinator</b></sub><br>
+        <sub>Computer Vision · Biometrics · Pattern Recognition</sub><br><br>
+        <a href="http://lattes.cnpq.br/5385878413487984"><img src="https://img.shields.io/badge/Lattes-c73e28?style=flat-square" alt="Lattes" /></a>
+        <a href="https://orcid.org/0000-0001-5249-1559"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+        <a href="http://www.decom.ufop.br/csilab/"><img src="https://img.shields.io/badge/Website-1f2833?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+        <a href="mailto:eduluz@ufop.edu.br"><img src="https://img.shields.io/badge/Email-566573?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      </td>
+      <td align="center" valign="top" width="25%">
+        <img src="https://ui-avatars.com/api/?name=Gladston%20Moreira&background=0b0c10&color=e2e8f0&size=110&rounded=true&bold=true&font-size=0.4" width="90" alt="Gladston Moreira" /><br>
+        <b>Gladston Moreira</b><br>
+        <sub><b>Coordinator</b></sub><br>
+        <sub>AI · Multiobjective Optimization · Spatial Analysis</sub><br><br>
+        <a href="http://lattes.cnpq.br/9902619084565293"><img src="https://img.shields.io/badge/Lattes-c73e28?style=flat-square" alt="Lattes" /></a>
+        <a href="https://orcid.org/0000-0001-7747-5926"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+        <a href="http://www.decom.ufop.br/moreira"><img src="https://img.shields.io/badge/Website-1f2833?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+        <a href="mailto:gladston@ufop.edu.br"><img src="https://img.shields.io/badge/Email-566573?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      </td>
+      <td align="center" valign="top" width="25%">
+        <img src="https://ui-avatars.com/api/?name=Jadson%20Castro&background=0b0c10&color=e2e8f0&size=110&rounded=true&bold=true&font-size=0.4" width="90" alt="Jadson Castro" /><br>
+        <b>Jadson Castro</b><br>
+        <sub><b>Professor</b></sub><br>
+        <sub>Databases · Pattern Recognition · Biosignals</sub><br><br>
+        <a href="http://lattes.cnpq.br/2870519332050607"><img src="https://img.shields.io/badge/Lattes-c73e28?style=flat-square" alt="Lattes" /></a>
+        <a href="https://orcid.org/0000-0002-0861-6681"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+        <a href="mailto:jadson.castro@ufop.edu.br"><img src="https://img.shields.io/badge/Email-566573?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      </td>
+      <td align="center" valign="top" width="25%">
+        <img src="https://ui-avatars.com/api/?name=Pedro%20Silva&background=0b0c10&color=e2e8f0&size=110&rounded=true&bold=true&font-size=0.4" width="90" alt="Pedro Silva" /><br>
+        <b>Pedro Silva</b><br>
+        <sub><b>Professor</b></sub><br>
+        <sub>Computer Vision · Deep Learning · Metric Learning</sub><br><br>
+        <a href="http://lattes.cnpq.br/5939805873458297"><img src="https://img.shields.io/badge/Lattes-c73e28?style=flat-square" alt="Lattes" /></a>
+        <a href="https://orcid.org/0000-0002-5525-6121"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+        <a href="mailto:silvap@ufop.edu.br"><img src="https://img.shields.io/badge/Email-566573?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="25%">
+        <img src="https://ui-avatars.com/api/?name=Rodrigo%20Silva&background=0b0c10&color=e2e8f0&size=110&rounded=true&bold=true&font-size=0.4" width="90" alt="Rodrigo Silva" /><br>
+        <b>Rodrigo Silva</b><br>
+        <sub><b>Professor</b></sub><br>
+        <sub>Data Science · AI · Applied ML</sub><br><br>
+        <a href="http://lattes.cnpq.br/1368091094952755"><img src="https://img.shields.io/badge/Lattes-c73e28?style=flat-square" alt="Lattes" /></a>
+        <a href="https://orcid.org/0000-0003-2547-3835"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+        <a href="mailto:rodrigo.silva@ufop.edu.br"><img src="https://img.shields.io/badge/Email-566573?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      </td>
+      <td align="center" valign="top" width="25%">
+        <img src="https://ui-avatars.com/api/?name=Val%C3%A9ria%20Santos&background=0b0c10&color=e2e8f0&size=110&rounded=true&bold=true&font-size=0.4" width="90" alt="Valéria Santos" /><br>
+        <b>Valéria Santos</b><br>
+        <sub><b>Professor</b></sub><br>
+        <sub>NLP · Machine Learning · Text Classification</sub><br><br>
+        <a href="http://lattes.cnpq.br/1153044237982775"><img src="https://img.shields.io/badge/Lattes-c73e28?style=flat-square" alt="Lattes" /></a>
+        <a href="https://orcid.org/0000-0002-7892-4954"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+        <a href="mailto:valeriacs@ufop.edu.br"><img src="https://img.shields.io/badge/Email-566573?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      </td>
+      <td align="center" valign="top" width="25%">
+        <img src="https://ui-avatars.com/api/?name=Vander%20Freitas&background=0b0c10&color=e2e8f0&size=110&rounded=true&bold=true&font-size=0.4" width="90" alt="Vander Freitas" /><br>
+        <b>Vander Freitas</b><br>
+        <sub><b>Professor</b></sub><br>
+        <sub>Machine Learning · NLP · Time Series</sub><br><br>
+        <a href="http://lattes.cnpq.br/5339877279308939"><img src="https://img.shields.io/badge/Lattes-c73e28?style=flat-square" alt="Lattes" /></a>
+        <a href="https://orcid.org/0000-0001-7989-0816"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+        <a href="https://vanderfreitas.github.io/"><img src="https://img.shields.io/badge/Website-1f2833?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+        <a href="mailto:vander.freitas@ufop.edu.br"><img src="https://img.shields.io/badge/Email-566573?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      </td>
+      <td align="center" valign="top" width="25%">
+        <img src="https://ui-avatars.com/api/?name=Ivair%20Silva&background=0b0c10&color=e2e8f0&size=110&rounded=true&bold=true&font-size=0.4" width="90" alt="Ivair Silva" /><br>
+        <b>Ivair Silva</b><br>
+        <sub><b>Professor</b></sub><br>
+        <sub>Statistical Methods · Sequential Tests</sub><br><br>
+        <a href="http://lattes.cnpq.br/7969497765428744"><img src="https://img.shields.io/badge/Lattes-c73e28?style=flat-square" alt="Lattes" /></a>
+        <a href="mailto:ivair@ufop.edu.br"><img src="https://img.shields.io/badge/Email-566573?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 align="center"><u>Infrastructure</u></h2>
 
@@ -165,5 +233,5 @@ Training deep learning models is a difficult task. Finding good hyperparameters 
 <p align="center"><sub>Last edited on 14/09/2026</sub></p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c10,55:141c28,100:c73e28&height=100&section=footer" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050608,60:0b0c10,100:7a2517&height=100&section=footer" alt="footer" />
 </p>
