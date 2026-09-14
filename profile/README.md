@@ -32,22 +32,32 @@ O **CSILab** - Laboratório de Computação de Sistemas Inteligentes da Universi
 <h2 align="center"><u>What do we do?</u></h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,cpp,matlab,pytorch,tensorflow,sklearn,opencv,anaconda,latex,linux,git,docker,github&perline=7&theme=light" alt="Languages and tools" />
-  </a>
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" title="R" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" alt="Julia" title="Julia" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" title="MATLAB" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" title="LaTeX" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases" />
-  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" title="Anaconda" />
+  <img width="48" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" title="Hugging Face" />
+  <img width="48" src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" title="MLflow" />
+  <img width="48" src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" alt="Weights & Biases" title="Weights & Biases" />
+  <img width="48" src="https://cdn.simpleicons.org/overleaf/47A141" alt="Overleaf" title="Overleaf" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
 </p>
-
 <h2 align="center"><u>Professors</u></h2>
 
 <table align="center">
