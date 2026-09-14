@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c10,50:1f2833,100:e94f37&height=200&section=header&text=&fontSize=80&fontColor=e2e8f0&animation=fadeIn&desc=Intelligent%20Systems%20Computing%20Laboratory%20-%20UFOP&descSize=22&descAlignY=72" alt="CSILab banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c10,55:141c28,100:c73e28&height=200&section=header&text=Intelligent%20Systems%20Computing%20Laboratory&fontSize=42&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn" alt="CSILab banner" />
 </p>
 
 <div align="center">
@@ -165,5 +165,5 @@ Training deep learning models is a difficult task. Finding good hyperparameters 
 <p align="center"><sub>Last edited on 14/09/2026</sub></p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c10,50:1f2833,100:e94f37&height=100&section=footer" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c10,55:141c28,100:c73e28&height=100&section=footer" alt="footer" />
 </p>
