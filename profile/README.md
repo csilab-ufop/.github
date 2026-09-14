@@ -1,14 +1,8 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c10,50:1f2833,100:e94f37&height=200&section=header&text=CSILab&fontSize=80&fontColor=e2e8f0&animation=fadeIn&desc=Intelligent%20Systems%20Computing%20Laboratory%20-%20UFOP&descSize=22&descAlignY=72" alt="CSILab banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c10,50:1f2833,100:e94f37&height=200&section=header&text=&fontSize=80&fontColor=e2e8f0&animation=fadeIn&desc=Intelligent%20Systems%20Computing%20Laboratory%20-%20UFOP&descSize=22&descAlignY=72" alt="CSILab banner" />
 </p>
 
 <div align="center">
-
-<a href="https://github.com/csilab-ufop">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence;Complex+Networks;Multiobjective+Optimization;Machine+Learning+%26+Deep+Learning;Data+Science;Computational+Statistics;Computer+Vision&font=Fira+Code&center=true&width=500&height=45&size=22&duration=3000&pause=800&color=e94f37" alt="Research areas" />
-</a>
-
-<br>
 
 <a href="http://www.decom.ufop.br/csilab/"><img src="https://img.shields.io/badge/Website-csilab-1f2833?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="http://www.decom.ufop.br/"><img src="https://img.shields.io/badge/DECOM-UFOP-0b0c10?style=for-the-badge" alt="DECOM/UFOP" /></a>
@@ -60,20 +54,20 @@ O **CSILab** - Laboratório de Computação de Sistemas Inteligentes da Universi
 
 | Professor | Email | Links |
 | :--- | :--- | :---: |
-| **Eduardo Luz** | eduluz@ufop.edu.br | [Lattes CV](http://lattes.cnpq.br/5385878413487984) · [Website](http://www.decom.ufop.br/csilab/) |
-| **Gladston Moreira** | gladston@ufop.edu.br | [Lattes CV](http://lattes.cnpq.br/9902619084565293) · [Website](http://www.decom.ufop.br/moreira) |
-| **Jadson Castro** | jadson.castro@ufop.edu.br | [Lattes CV](http://lattes.cnpq.br/2870519332050607) |
-| **Pedro Silva** | silvap@ufop.edu.br | [Lattes CV](http://lattes.cnpq.br/5939805873458297) |
-| **Rodrigo Silva** | rodrigo.silva@ufop.edu.br | [Lattes CV](http://lattes.cnpq.br/1368091094952755) |
-| **Valéria Santos** | valeriacs@ufop.edu.br | [Lattes CV](http://lattes.cnpq.br/1153044237982775) |
-| **Vander Freitas** | vander.freitas@ufop.edu.br | [Lattes CV](http://lattes.cnpq.br/5339877279308939) · [Website](https://vanderfreitas.github.io/) |
-| **Ivair Silva** | ivair@ufop.edu.br | [Lattes CV](http://lattes.cnpq.br/7969497765428744) |
+| **Eduardo Luz** | <eduluz@ufop.edu.br> | [Lattes CV](http://lattes.cnpq.br/5385878413487984) · [Website](http://www.decom.ufop.br/csilab/) |
+| **Gladston Moreira** | <gladston@ufop.edu.br> | [Lattes CV](http://lattes.cnpq.br/9902619084565293) · [Website](http://www.decom.ufop.br/moreira) |
+| **Jadson Castro** | <jadson.castro@ufop.edu.br> | [Lattes CV](http://lattes.cnpq.br/2870519332050607) |
+| **Pedro Silva** | <silvap@ufop.edu.br> | [Lattes CV](http://lattes.cnpq.br/5939805873458297) |
+| **Rodrigo Silva** | <rodrigo.silva@ufop.edu.br> | [Lattes CV](http://lattes.cnpq.br/1368091094952755) |
+| **Valéria Santos** | <valeriacs@ufop.edu.br> | [Lattes CV](http://lattes.cnpq.br/1153044237982775) |
+| **Vander Freitas** | <vander.freitas@ufop.edu.br> | [Lattes CV](http://lattes.cnpq.br/5339877279308939) · [Website](https://vanderfreitas.github.io/) |
+| **Ivair Silva** | <ivair@ufop.edu.br> | [Lattes CV](http://lattes.cnpq.br/7969497765428744) |
 
 </div>
 
 <h2 align="center"><u>Infrastructure</u></h2>
 
-**CSILab servers and GPUs:** We have nice computers in our laboratory (256 GB RAM, 48 threads), with powerful GPUs (NVIDIA H200 NVL with 141 GB, RTX 3090, etc.), available for you to run your experiments (don't stress your laptop!!). Access to the lab machines is done remotely and managed by Prof. Pedro Silva (silvap@ufop.edu.br). Drop an email to Prof. Pedro (with a copy to your supervisor) for instructions on how to use our infrastructure.
+**CSILab servers and GPUs:** We have nice computers in our laboratory (256 GB RAM, 48 threads), with powerful GPUs (NVIDIA H200 NVL with 141 GB, RTX 3090, etc.), available for you to run your experiments (don't stress your laptop!!). Access to the lab machines is done remotely and managed by Prof. Pedro Silva (<silvap@ufop.edu.br>). Drop an email to Prof. Pedro (with a copy to your supervisor) for instructions on how to use our infrastructure.
 
 > [!IMPORTANT]
 > The machines are shared with the whole lab. Check the GPU usage with `nvidia-smi` before running your experiments, keep your files in your own folder, and free the GPU as soon as you are done (other students are waiting!!).
