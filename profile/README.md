@@ -1,20 +1,18 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e79,100:2e7d32&height=200&section=header&text=CSILab&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Intelligent%20Systems%20Computing%20Laboratory%20-%20UFOP&descSize=22&descAlignY=72" alt="CSILab banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c10,50:1f2833,100:e94f37&height=200&section=header&text=CSILab&fontSize=80&fontColor=e2e8f0&animation=fadeIn&desc=Intelligent%20Systems%20Computing%20Laboratory%20-%20UFOP&descSize=22&descAlignY=72" alt="CSILab banner" />
 </p>
 
 <div align="center">
 
-# Welcome to the CSILab - Laboratório de Computação de Sistemas Inteligentes da Universidade Federal de Ouro Preto
-
 <a href="https://github.com/csilab-ufop">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence;Complex+Networks;Multiobjective+Optimization;Machine+Learning+%26+Deep+Learning;Data+Science;Computational+Statistics;Computer+Vision&font=Fira+Code&center=true&width=500&height=45&size=22&duration=3000&pause=800&color=2E7D32" alt="Research areas" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence;Complex+Networks;Multiobjective+Optimization;Machine+Learning+%26+Deep+Learning;Data+Science;Computational+Statistics;Computer+Vision&font=Fira+Code&center=true&width=500&height=45&size=22&duration=3000&pause=800&color=e94f37" alt="Research areas" />
 </a>
 
 <br>
 
-<a href="http://www.decom.ufop.br/csilab/"><img src="https://img.shields.io/badge/Website-csilab-1f4e79?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="http://www.decom.ufop.br/"><img src="https://img.shields.io/badge/DECOM-UFOP-8B0000?style=for-the-badge" alt="DECOM/UFOP" /></a>
-<a href="http://www3.decom.ufop.br/pos/inicio/"><img src="https://img.shields.io/badge/PPGCC-Graduate%20Program-2e7d32?style=for-the-badge" alt="PPGCC" /></a>
+<a href="http://www.decom.ufop.br/csilab/"><img src="https://img.shields.io/badge/Website-csilab-1f2833?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="http://www.decom.ufop.br/"><img src="https://img.shields.io/badge/DECOM-UFOP-0b0c10?style=for-the-badge" alt="DECOM/UFOP" /></a>
+<a href="http://www3.decom.ufop.br/pos/inicio/"><img src="https://img.shields.io/badge/PPGCC-Graduate%20Program-e94f37?style=for-the-badge" alt="PPGCC" /></a>
 <a href="https://github.com/csilab-ufop"><img src="https://img.shields.io/github/stars/csilab-ufop?style=for-the-badge&logo=github&label=Org%20stars" alt="Organization stars" /></a>
 
 </div>
@@ -38,24 +36,6 @@ O **CSILab** - Laboratório de Computação de Sistemas Inteligentes da Universi
 </details>
 
 <h2 align="center"><u>What do we do?</u></h2>
-
-The fields we work in are:
-
-<div align="center">
-
-| Field | Área |
-| :--- | :--- |
-| **Artificial Intelligence** | Inteligência Artificial |
-| **Network Science / Complex Networks / Complex Systems** | Redes Complexas |
-| **Multiobjective Optimization** | Otimização Multiobjetivo |
-| **Machine Learning / Deep Learning** | Aprendizagem de Máquina |
-| **Data Science** | Ciência de Dados |
-| **Computational Statistics** | Estatística Computacional |
-| **Computer Vision** | Visão Computacional |
-
-</div>
-
-<h3 align="center">Our stack</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -94,21 +74,6 @@ The fields we work in are:
 <h2 align="center"><u>Infrastructure</u></h2>
 
 **CSILab servers and GPUs:** We have nice computers in our laboratory (256 GB RAM, 48 threads), with powerful GPUs (NVIDIA H200 NVL with 141 GB, RTX 3090, etc.), available for you to run your experiments (don't stress your laptop!!). Access to the lab machines is done remotely and managed by Prof. Pedro Silva (silvap@ufop.edu.br). Drop an email to Prof. Pedro (with a copy to your supervisor) for instructions on how to use our infrastructure.
-
-Our best machine is **jackal**:
-
-<div align="center">
-
-| | jackal |
-| ---: | :--- |
-| **GPU** | <img src="https://img.shields.io/badge/NVIDIA%20H200%20NVL-141%20GB-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA H200 NVL 141 GB" /> |
-| **CPU** | AMD Ryzen Threadripper 7960X · 24 cores / 48 threads |
-| **RAM** | 256 GB |
-| **Local storage** | 960 GB NVMe SSD |
-| **Network storage** | ~66 TB across three shared volumes (`work`, `data`, `ppg`) |
-| **OS** | Ubuntu 22.04 LTS · CUDA |
-
-</div>
 
 > [!IMPORTANT]
 > The machines are shared with the whole lab. Check the GPU usage with `nvidia-smi` before running your experiments, keep your files in your own folder, and free the GPU as soon as you are done (other students are waiting!!).
@@ -206,5 +171,5 @@ Training deep learning models is a difficult task. Finding good hyperparameters 
 <p align="center"><sub>Last edited on 14/09/2026</sub></p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e79,100:2e7d32&height=100&section=footer" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c10,50:1f2833,100:e94f37&height=100&section=footer" alt="footer" />
 </p>
